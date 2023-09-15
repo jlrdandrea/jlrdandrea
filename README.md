@@ -1,6 +1,6 @@
 ## Technologies
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-![Quarto](https://img.shields.io/badge/-R-black?style=flat-square&logo=Quarto)
+![Quarto](https://img.shields.io/badge/-Quarto-black?style=flat-square&logo=Quarto)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
