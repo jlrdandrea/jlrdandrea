@@ -6,7 +6,7 @@
 ![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O)
 
 ## Infra-structure
-![Databrics](https://img.shields.io/badge/Databrics%20Databrics-232F3E?style=flat-square&logo=Databrics)
+![Databrics](https://img.shields.io/badge/Databrics%20Cloud-232F3E?style=flat-square&logo=Databrics)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -14,4 +14,5 @@
 ## Social
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joaoluizdandrea/)
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrdandrea&hide=TeX&layout=compact)
