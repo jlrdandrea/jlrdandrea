@@ -5,7 +5,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![H2O](https://img.shields.io/badge/-H2O?style=flat-square&logo=H2O)
 
-## Infra-estructure
+## Infra-structure
 ![Databrics Cloud](https://img.shields.io/badge/Databrics%20Databrics-232F3E?style=flat-square&logo=databrics)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
