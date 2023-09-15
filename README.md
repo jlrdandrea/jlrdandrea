@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O)
 
 ## Infraestructure
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
