@@ -14,6 +14,4 @@
 
 ## Social
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joaoluizdandrea/)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&count_private=true&show_icons=true&include_all_commits=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrdandrea&hide=TeX&layout=compact)
+[![Mastodom Badge](https://img.shields.io/badge/Mastodom-Profile-informational?style=flat&logo=mastodom&logoColor=white&color=0D76A8)](https://www.mastodom.com/in/joaoluizdandrea/)
