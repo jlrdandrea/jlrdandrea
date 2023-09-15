@@ -3,7 +3,7 @@
 ![Quarto](https://img.shields.io/badge/-Quarto-black?style=flat-square&logo=Quarto)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
