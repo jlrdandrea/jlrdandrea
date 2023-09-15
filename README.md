@@ -1,7 +1,7 @@
 ## Technologies
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=Spark)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 
 ## Infraestructure
