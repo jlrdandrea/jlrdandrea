@@ -29,3 +29,5 @@
 ##
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joaoluizdandrea/)
 [![Mastodom Badge](https://img.shields.io/badge/Mastodom-Profile-informational?style=flat&logo=mastodom&logoColor=white&color=0D76A8)](https://www.mastodom.social/@joaodandrea/)
+##
+<a rel="me" href="https://mastodon.social/@joaodandrea">Mastodon</a>
