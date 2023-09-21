@@ -5,6 +5,7 @@
 ![Apache Mxnet](https://img.shields.io/badge/-ApacheMxnet-black?style=flat-square&logo=ApacheMxnet)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=Torch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
