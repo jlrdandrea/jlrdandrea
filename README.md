@@ -13,7 +13,7 @@ Senior Project Manager
 
 Certifications
 * [MSP - Management Successfull Programmes - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
-* [PRINCE2 - Projects in a Control Environment - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
+* [PRINCE2 - Projects in a Controlled Environment - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
 * [SCRUM Master](https://www.scrum.org/resources/what-is-a-scrum-master)
 
 ##
