@@ -6,5 +6,9 @@
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
 
+##
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
+Certifications
+MSP - Management Successfull Programmes - Practitioner
+PRINCE2 - Projects in a Control Enviroenment - Practitioner
