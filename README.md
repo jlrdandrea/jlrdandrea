@@ -8,6 +8,7 @@
 ![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O)
 
 ##
+Senior Project Manager
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
 Certifications
