@@ -2,7 +2,6 @@
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-black?style=flat-square&logo=ApacheSpark)
-![Mxnet](https://img.shields.io/badge/-Mxnet-black?style=flat-square&logo=Mxnet)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=Torch)
