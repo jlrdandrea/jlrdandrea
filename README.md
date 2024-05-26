@@ -11,4 +11,4 @@
 
 Certifications
 * [MSP - Management Successfull Programmes - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
-* [PRINCE2 - Projects in a Control Enviroenment - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
+* [PRINCE2 - Projects in a Control Environment - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
