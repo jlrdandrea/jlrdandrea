@@ -10,5 +10,5 @@
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
 Certifications
-MSP - Management Successfull Programmes - Practitioner
-PRINCE2 - Projects in a Control Enviroenment - Practitioner
+* [MSP - Management Successfull Programmes - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
+* [PRINCE2 - Projects in a Control Enviroenment - Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management)
