@@ -7,6 +7,7 @@
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
 ![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2Oai)
 ![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=kafka)
+![Kafka](https://img.shields.io/badge/-nifi-black?style=flat-square&logo=nifi)
 
 ##
 Senior Project Manager
