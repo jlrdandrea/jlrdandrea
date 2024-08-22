@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-black?style=flat-square&logo=ApacheSpark)
-![Apache Spark](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
