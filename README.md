@@ -25,7 +25,9 @@ Certifications
 Never Stop Learning
 [Extension Training](https://jlrdandrea.github.io/Training/TrainingDAndrea2022.html)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+https://img.shields.io/github/license/jlrdandrea/jlrdandrea
+https://img.shields.io/github/stars/jlrdandrea/jlrdandrea
+
 
 
 
