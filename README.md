@@ -26,7 +26,8 @@ Never Stop Learning
 [Extension Training](https://jlrdandrea.github.io/Training/TrainingDAndrea2022.html)
 
 https://img.shields.io/github/license/jlrdandrea/jlrdandrea
-https://img.shields.io/github/stars/jlrdandrea/jlrdandrea
+![GitHub Repo stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea)
+
 
 
 
