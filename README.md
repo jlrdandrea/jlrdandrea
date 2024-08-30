@@ -41,6 +41,9 @@ Never Stop Learning
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Signal Badge"/>
+  </a>
 </div>
 
 
