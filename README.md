@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/<username>?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)
 ##
