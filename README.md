@@ -12,7 +12,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
-![H2O](https://img.shields.io/badge/-h2o-black?style=flat-square&logo=h2o)
+![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=h2o.io)
 ![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
 ![NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square&logo=Nifi)
 
