@@ -4,6 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
 ![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
+![GitHub contributors](https://img.shields.io/github/contributors/jlrdandrea/jlrdandrea)
 
 ##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
