@@ -2,7 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joqoluizdandrea)
 [![Twitte](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
 [![Signal](https://img.shields.io/badge/Signal-1DA1F2?logo=signal&style=for-the-badge)](https://signal.com/johndoe)
-
 ##
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -12,12 +11,9 @@
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
 ![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O.ai)
-![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
-![NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
-
-
-![Apache MXNet](https://img.shields.io/badge/Apache%20MXNet-Supported-red?logo=apache)
-
+![Apache Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
+![Apache NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
+![Apache MxNet](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
 ##
 Senior Project Manager
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
