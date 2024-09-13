@@ -16,6 +16,11 @@
 ![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
 ![Kafka](https://img.shields.io/badge/-Nifi-black?style=flat-square&logo=NIFI)
 
+![H2O.ai](https://img.shields.io/badge/H2O.ai-Supported-yellow?logo=h2o.ai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Enabled-orange?logo=tensorflow)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-Supported-blue?logo=apache)
+![Apache MXNet](https://img.shields.io/badge/Apache%20MXNet-Supported-red?logo=apache)
+
 ##
 Senior Project Manager
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
