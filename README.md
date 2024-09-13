@@ -9,6 +9,7 @@
 ![Apache Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
 ![Apache NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
 ![SAP](https://img.shields.io/badge/-SAP-black?style=flat-square-red?&logo=SAP)
+![Sales Force](https://img.shields.io/badge/-salesforce-black?style=flat-square-red?&logo=salesforce)
 
 ##
 Senior Project Manager
