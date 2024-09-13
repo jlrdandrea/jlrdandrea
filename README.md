@@ -26,7 +26,7 @@
 ![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O.ai)
 ![Apache Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
 ![Apache NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
-![Apache MxNet](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache
+![Apache MxNet](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
 ![H2O.ai](https://img.shields.io/badge/H2O.ai--black?style=flat-square-yellow?logo=h2o.ai)
 ##
 Senior Project Manager
