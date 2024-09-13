@@ -8,6 +8,8 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jlrdanrea/jlrdandrea/<workflow_file>.yml)
 ![Top Language](https://img.shields.io/github/languages/top/jlrdandrea/jlrdandrea)
 
+![Languages Count](https://img.shields.io/github/languages/count/jlrdandrea/jlrdandrea)
+
 ##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
