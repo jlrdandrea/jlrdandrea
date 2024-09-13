@@ -1,27 +1,9 @@
-![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jlrdandrea/jlrdandrea?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
-![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
-![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
-![GitHub contributors](https://img.shields.io/github/contributors/jlrdandrea/jlrdandrea)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jlrdanrea/jlrdandrea/<workflow_file>.yml)
-
-![Top Language](https://img.shields.io/github/languages/top/jlrdandrea/jlrdandrea)
-![Languages Count](https://img.shields.io/github/languages/count/jlrdandrea/jlrdandrea)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/jlrdandrea)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
-![Patreon](https://img.shields.io/badge/Patreon-donate-orange?logo=patreon)
-##
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-black?style=flat-square&logo=ApacheSpark)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-yellow?style=flat-square&logo=keras)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
 ![H2O.ai](https://img.shields.io/badge/H2O-yellow?style=flat-square-red?logo=h2o.ai)
 ![Apache Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
@@ -52,6 +34,22 @@ Never Stop Learning
 ## 🔥 Top Repositories
 - [**My AI Project**](https://github.com/johnDoe/ai-project)
 - [**My Data Science Blog**](https://github.com/johnDoe/data-science-blog)
+
+##
+![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jlrdandrea/jlrdandrea?style=social)
+![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
+![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
+![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
+![GitHub contributors](https://img.shields.io/github/contributors/jlrdandrea/jlrdandrea)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jlrdanrea/jlrdandrea/<workflow_file>.yml)
+![Top Language](https://img.shields.io/github/languages/top/jlrdandrea/jlrdandrea)
+![Languages Count](https://img.shields.io/github/languages/count/jlrdandrea/jlrdandrea)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/jlrdandrea)
+![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
+![Patreon](https://img.shields.io/badge/Patreon-donate-orange?logo=patreon)
 
 
 </div>
