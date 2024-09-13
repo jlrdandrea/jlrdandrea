@@ -32,7 +32,6 @@ Never Stop Learning
 
 ## 📊 GitHub Stats
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrdandrea&layout=compact)
 
 ##
 
