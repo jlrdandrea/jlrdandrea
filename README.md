@@ -1,6 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/jlrdandrea/jlrdandrea?style=social)
+![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
 ##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
