@@ -42,6 +42,8 @@ Never Stop Learning
     <img src="https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Signal Badge"/>
   </a>
 
+  ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
   ![Mastodon Follow](https://img.shields.io/mastodon/follow/:id)
 
 </div>
