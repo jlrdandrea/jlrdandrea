@@ -2,6 +2,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/jlrdandrea/jlrdandrea?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
+![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
+![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
+
 ##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
