@@ -1,3 +1,8 @@
+
+##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johndoe)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
+[![Signal](https://img.shields.io/badge/Signal-1DA1F2?logo=x&style=for-the-badge)](https://signal.com/johndoe)
 ## 
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
