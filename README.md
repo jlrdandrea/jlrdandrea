@@ -8,6 +8,8 @@
 ![H2O.ai](https://img.shields.io/badge/H2O-yellow?style=flat-square-red?logo=h2o.ai)
 ![Apache Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
 ![Apache NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square-red?&logo=Apache)
+![SAP](https://img.shields.io/badge/-SAP-black?style=flat-square-red?&logo=SAP)
+
 ##
 Senior Project Manager
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
