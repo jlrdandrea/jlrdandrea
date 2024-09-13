@@ -12,9 +12,9 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
-![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O.io)
+![H2O](https://img.shields.io/badge/-H2O-black?style=flat-square&logo=H2O)
 ![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apachekafka)
-![NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square&logo=ApacheNIFI)
+![NiFi](https://img.shields.io/badge/-Nifi-black?style=flat-square&logo=Apache)
 
 
 ![Apache MXNet](https://img.shields.io/badge/Apache%20MXNet-Supported-red?logo=apache)
