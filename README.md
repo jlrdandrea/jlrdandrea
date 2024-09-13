@@ -10,7 +10,6 @@
 ![Languages Count](https://img.shields.io/github/languages/count/jlrdandrea/jlrdandrea)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/jlrdandrea)
 
-##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
 ##
