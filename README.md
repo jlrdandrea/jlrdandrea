@@ -44,7 +44,7 @@ Never Stop Learning
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/johndoe)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://twitter.com/johndoe)
 
 </div>
 
