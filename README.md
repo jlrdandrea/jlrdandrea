@@ -30,26 +30,12 @@ Certifications
 Never Stop Learning
 [Extension Training](https://jlrdandrea.github.io/Training/TrainingDAndrea2022.html)
 
+##
+
 ![GitHub License](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/joaoluizdandrea">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://x.com/JoaoDAndre80184?t=iehn3aFbl-P">
-    <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Signal Badge"/>
-  </a>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://twitter.com/johndoe)
 
 </div>
 
