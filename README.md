@@ -31,8 +31,8 @@ Never Stop Learning
 [Extension Training](https://jlrdandrea.github.io/Training/TrainingDAndrea2022.html)
 
 ## 📊 GitHub Stats
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact)
+![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrdandrea&layout=compact)
 
 ##
 
