@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoluizdandrea-blue?style=social&logo=linkedin)
 ##
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
