@@ -29,18 +29,12 @@ Certifications
 Never Stop Learning
 [Extension Training](https://jlrdandrea.github.io/Training/TrainingDAndrea2022.html)
 
-## 📊 GitHub Stats
+## 
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
 
-### 🔥 Top Repositories
+## 🔥 Top Repositories
 - [**My AI Project**](https://github.com/johnDoe/ai-project)
 - [**My Data Science Blog**](https://github.com/johnDoe/data-science-blog)
-
-##
-
-![GitHub License](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
-![GitHub Repo stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea)
-
 
 
 </div>
