@@ -1,7 +1,8 @@
 
 ## Keeping in contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johndoe)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joqoluizdandrea)
+[![Twitte](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
+[![Twitte](https://img.shields.io/badge/-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
 [![Signal](https://img.shields.io/badge/Signal-1DA1F2?logo=x&style=for-the-badge)](https://signal.com/johndoe)
 
 ## Main Technologies
