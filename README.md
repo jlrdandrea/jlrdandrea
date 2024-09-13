@@ -5,7 +5,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
 ![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
 ![GitHub contributors](https://img.shields.io/github/contributors/jlrdandrea/jlrdandrea)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/<username>/<repo>/<workflow_file>.yml)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jlrdanrea/jlrdandrea/<workflow_file>.yml)
+![Top Language](https://img.shields.io/github/languages/top/jlrdandrea/jlrdandrea)
 
 ##
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoaoDAndrea80184?style=social)
