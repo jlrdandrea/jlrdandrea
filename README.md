@@ -34,6 +34,10 @@ Never Stop Learning
 ## 📊 GitHub Stats
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
 
+### 🔥 Top Repositories
+- [**My AI Project**](https://github.com/johnDoe/ai-project)
+- [**My Data Science Blog**](https://github.com/johnDoe/data-science-blog)
+
 ##
 
 ![GitHub License](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
