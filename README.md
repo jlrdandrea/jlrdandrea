@@ -36,8 +36,8 @@ Never Stop Learning
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
 
 ## 🔥 Top Repositories
-- [**My AI Project**](https://github.com/johnDoe/ai-project)
-- [**My Data Science Blog**](https://github.com/johnDoe/data-science-blog)
+- [** AI Resources**](https://github.com/DreamXTeam/AI-Index)
+- [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
 
 ##
 ![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
