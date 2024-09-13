@@ -1,4 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/<username>?style=social)
 ##
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
