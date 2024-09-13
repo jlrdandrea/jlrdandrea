@@ -1,11 +1,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/jlrdandrea?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jlrdandrea/jlrdandrea?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/jlrdandrea/jlrdandrea?style=social)
+
 ![GitHub issues](https://img.shields.io/github/issues/jlrdandrea/jlrdandrea)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jlrdandrea/jlrdandrea)
 ![GitHub license](https://img.shields.io/github/license/jlrdandrea/jlrdandrea)
 ![GitHub contributors](https://img.shields.io/github/contributors/jlrdandrea/jlrdandrea)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jlrdanrea/jlrdandrea/<workflow_file>.yml)
+
 ![Top Language](https://img.shields.io/github/languages/top/jlrdandrea/jlrdandrea)
 ![Languages Count](https://img.shields.io/github/languages/count/jlrdandrea/jlrdandrea)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/jlrdandrea)
