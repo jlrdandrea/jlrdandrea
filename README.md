@@ -30,7 +30,7 @@ Certifications
 
 ##
 Never Stop Learning
-[Extension Training](https://jlrdandrea.github.io/Training/)
+[Extension Training](https://jdan.shinyapps.io/Training/)
 
 ## 
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
