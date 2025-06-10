@@ -34,6 +34,7 @@ Dashboards
 * [Scrum Team](https://jdan.shinyapps.io/ShinyBasicTemplate2025/)
 * [Life Learning](https://jdan.shinyapps.io/Training/)
 * [Research Prototype](https://jdan.shinyapps.io/ShinyQuestionare/)
+* [Software Delivery Risk - Montecarlo Simulation](https://jdan.shinyapps.io/MontecarloSimulation/)
 
 ## 
 ![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
