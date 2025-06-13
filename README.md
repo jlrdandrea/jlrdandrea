@@ -14,6 +14,9 @@
 
 ##
 Senior Project Manager
+:it: Italian  
+:br: Portuguese (Brazil)  
+:de: German  
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joqoluizdandrea)
