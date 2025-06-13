@@ -45,7 +45,7 @@ Mockups
 - [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
 
 
-🇬🇧 English (UK) 🇮🇹 Italian  🇧🇷 Portuguese (Brazil)  🇪🇸 Spanish (Spain)
+* 🇬🇧 English (UK) 🇮🇹 Italian  🇧🇷 Portuguese (Brazil)  🇪🇸 Spanish (Spain)
 
 </div>
 
