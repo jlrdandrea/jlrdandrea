@@ -45,7 +45,8 @@ Mockups
 - [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
 
 
-* 🇬🇧 English (UK) 🇮🇹 Italian  🇧🇷 Portuguese (Brazil)  🇪🇸 Spanish (Spain)
+![United Kingdom](https://em-content.zobj.net/thumbs/60/apple/354/flag-united-kingdom_1f1ec-1f1e7.png) English (UK)  
+![Spain](https://em-content.zobj.net/thumbs/60/apple/354/flag-spain_1f1ea-1f1f8.png) Spanish (Spain)  
 
 </div>
 
