@@ -29,7 +29,7 @@ Certifications
 * [ITIL the framework for the management of IT-enabled services](https://www.axelos.com/certifications/itil-service-management)
 
 ## 
-Dashboards
+Mockups
 * [IT Portfolio Management Dashboard](https://jdan.shinyapps.io/ITPortfolioManagement/)
 * [Scrum Team](https://jdan.shinyapps.io/ShinyBasicTemplate2025/)
 * [Life Learning](https://jdan.shinyapps.io/Training/)
