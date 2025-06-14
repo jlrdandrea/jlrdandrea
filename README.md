@@ -45,7 +45,7 @@ Mockups
 - [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
 
 ## Languages
-![United Kingdom](https://em-content.zobj.net/thumbs/60/apple/354/flag-united-kingdom_1f1ec-1f1e7.png) English (UK) ![Italy](https://em-content.zobj.net/thumbs/60/apple/354/flag-italy_1f1ee-1f1f9.png) Italian  ![Brazil](https://em-content.zobj.net/thumbs/60/apple/354/flag-brazil_1f1e7-1f1f7.png) Portuguese ![Spain](https://em-content.zobj.net/thumbs/60/apple/354/flag-spain_1f1ea-1f1f8.png) Spanish 
+![United Kingdom](https://em-content.zobj.net/thumbs/60/apple/354/flag-united-kingdom_1f1ec-1f1e7.png) English ![Italy](https://em-content.zobj.net/thumbs/60/apple/354/flag-italy_1f1ee-1f1f9.png) Italian  ![Brazil](https://em-content.zobj.net/thumbs/60/apple/354/flag-brazil_1f1e7-1f1f7.png) Portuguese ![Spain](https://em-content.zobj.net/thumbs/60/apple/354/flag-spain_1f1ea-1f1f8.png) Spanish 
 </div>
 
 
