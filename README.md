@@ -29,11 +29,13 @@ Certifications
 * [COBIT5 Control Objectives for Information Technology](https://www.isaca.org/resources/cobit)
 * [ITIL the framework for the management of IT-enabled services](https://www.axelos.com/certifications/itil-service-management)
 
+##
+Training
+* [Life Learning](https://jdan.shinyapps.io/Training/)
 ## 
 Mockups
 * [IT Portfolio Management Dashboard](https://jdan.shinyapps.io/ITPortfolioManagement/)
 * [Scrum Team](https://jdan.shinyapps.io/ShinyBasicTemplate2025/)
-* [Life Learning](https://jdan.shinyapps.io/Training/)
 * [Project Evaluation](http://jdan.shinyapps.io/ProjectManagemntQuestionare)
 * [Software Delivery Risk - Montecarlo Simulation](https://jdan.shinyapps.io/MontecarloSimulation/)
 
