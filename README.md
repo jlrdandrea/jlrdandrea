@@ -36,7 +36,7 @@ Training
 Mockups
 * [IT Portfolio Management Dashboard](https://jdan.shinyapps.io/ITPortfolioManagement/)
 * [Scrum Team](https://jdan.shinyapps.io/ShinyBasicTemplate2025/)
-* [Project Evaluation](http://jdan.shinyapps.io/ProjectManagemntQuestionare)
+* [Scrum Metrics](https://jdan.shinyapps.io/ScrumMetrics/)
 * [Software Delivery Risk - Montecarlo Simulation](https://jdan.shinyapps.io/MontecarloSimulation/)
 
 ## 
