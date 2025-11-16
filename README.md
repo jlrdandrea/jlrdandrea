@@ -31,7 +31,7 @@ Certifications
 
 ##
 Training
-* [Life Learning](https://jdan.shinyapps.io/Training/)
+* [Professional Training Summary](https://jdan.shinyapps.io/Training/)
 ## 
 Mockups
 * [IT Portfolio Management Dashboard](https://jdan.shinyapps.io/ITPortfolioManagement/)
