@@ -39,9 +39,6 @@ Mockups
 * [Scrum Metrics](https://jdan.shinyapps.io/ScrumMetrics/)
 * [Software Delivery Risk - Montecarlo Simulation](https://jdan.shinyapps.io/MontecarloSimulation/)
 
-## 
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlrdandrea&show_icons=true&theme=radical)
-
 ## 🔥 Top Repositories
 - [** AI Resources**](https://github.com/DreamXTeam/AI-Index)
 - [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
