@@ -1,26 +1,17 @@
-  ##
-Joao Luiz D'Abdrea - Senior IT Project and Programme Manager
-
-
+##
 <p align="center">
 
-<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=R" />
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-<img src="https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala" />
-<img src="https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=ApacheSpark" />
-<img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow" />
-<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras" />
-<img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch" />
-<img src="https://img.shields.io/badge/-H2O.ai-black?style=flat-square&logo=h2o" />
-<img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=ApacheKafka" />
-<img src="https://img.shields.io/badge/-Apache%20NiFi-black?style=flat-square&logo=ApacheNiFi" />
-<img src="https://img.shields.io/badge/-SAP-black?style=flat-square&logo=SAP" />
-<img src="https://img.shields.io/badge/-Salesforce-black?style=flat-square&logo=Salesforce" />
-<img src="https://img.shields.io/badge/-UML-black?style=flat-square&logo=UML" />
+<img src="https://img.shields.io/badge/COBIT-Governance-black?style=flat-square" />
+<img src="https://img.shields.io/badge/P3O-PMO%20Model-black?style=flat-square" />
+<img src="https://img.shields.io/badge/MoP-Portfolio-black?style=flat-square" />
+<img src="https://img.shields.io/badge/MoR-Risk-black?style=flat-square" />
+<img src="https://img.shields.io/badge/MSP-Programme-black?style=flat-square" />
+<img src="https://img.shields.io/badge/PRINCE2-Project-black?style=flat-square" />
+<img src="https://img.shields.io/badge/ITIL-Service-black?style=flat-square" />
+<img src="https://img.shields.io/badge/NIST-Security-black?style=flat-square" />
 
 </p>
 
-##
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
 
@@ -64,7 +55,23 @@ Mockups
 - [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
 
 
+## 
+<p align="center">
 
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=R" />
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala" />
+<img src="https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=ApacheSpark" />
+<img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow" />
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras" />
+<img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch" />
+<img src="https://img.shields.io/badge/-H2O.ai-black?style=flat-square&logo=h2o" />
+<img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=ApacheKafka" />
+<img src="https://img.shields.io/badge/-Apache%20NiFi-black?style=flat-square&logo=ApacheNiFi" />
+<img src="https://img.shields.io/badge/-SAP-black?style=flat-square&logo=SAP" />
+<img src="https://img.shields.io/badge/-Salesforce-black?style=flat-square&logo=Salesforce" />
+<img src="https://img.shields.io/badge/-UML-black?style=flat-square&logo=UML" />
+</p>
 
 
 
