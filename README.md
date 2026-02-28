@@ -31,7 +31,6 @@
 
 </p>
 
-
 ##
 Certifications
 * [COBIT5 Control Objectives for Information Technology](https://www.isaca.org/resources/cobit)
@@ -43,6 +42,7 @@ Certifications
 ##
 Training
 * [Professional Training Summary](https://jdan.shinyapps.io/Training/)
+
 ## 
 Mockups
 * [IT Portfolio Management Dashboard](https://jdan.shinyapps.io/ITPortfolioManagement/)
