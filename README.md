@@ -17,14 +17,11 @@ Senior Project Manager
 
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/YOUR-USERNAME)
-[![Signal](https://img.shields.io/badge/Signal-Chat-3A76F0?logo=signal&logoColor=white)](https://signal.me/#p/YOUR-NUMBER)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:yourname@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joqoluizdandrea)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/JoaoDAndrea80184)
+[![Signal](https://img.shields.io/badge/Signal-Chat-3A76F0?logo=signal&logoColor=white)](https://signal.me/#p/+447576534694)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:joao.dandrea@tuta.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joqoluizdandrea)
-[![Twitte](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge)](https://x.com/johndoe)
-[![Signal](https://img.shields.io/badge/Signal-1DA1F2?logo=signal&style=for-the-badge)](https://signal.com/johndoe)
 
 ##
 Certifications
