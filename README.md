@@ -17,7 +17,7 @@ Senior Project Manager
 
 ![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joqoluizdandrea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoluizdandrea)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/JoaoDAndrea80184)
 [![Signal](https://img.shields.io/badge/Signal-Chat-3A76F0?logo=signal&logoColor=white)](https://signal.me/#p/+447576534694)
 [![Email](https://img.shields.io/badge/Email-Contact-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:joao.dandrea@tuta.com)
