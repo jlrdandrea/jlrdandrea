@@ -51,11 +51,6 @@ Mockups
 * [Scrum Metrics](https://jdan.shinyapps.io/ScrumMetrics/)
 * [Software Delivery Risk - Montecarlo Simulation](https://jdan.shinyapps.io/MontecarloSimulation/)
 
-## 🔥 Top Repositories
-- [** AI Resources**](https://github.com/DreamXTeam/AI-Index)
-- [** Color palettes**](https://github.com/jlrdandrea/R-Colour-Palettes)
-
-
 ## 
 <p align="center">
 
