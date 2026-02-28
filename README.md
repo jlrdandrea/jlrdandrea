@@ -2,11 +2,13 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/COBIT-Governance-black?style=flat-square" />
+<img src="https://img.shields.io/badge/TOGAF-Architecture-black?style=flat-square" />
 <img src="https://img.shields.io/badge/P3O-PMO%20Model-black?style=flat-square" />
 <img src="https://img.shields.io/badge/MoP-Portfolio-black?style=flat-square" />
 <img src="https://img.shields.io/badge/MoR-Risk-black?style=flat-square" />
 <img src="https://img.shields.io/badge/MSP-Programme-black?style=flat-square" />
 <img src="https://img.shields.io/badge/PRINCE2-Project-black?style=flat-square" />
+<img src="https://img.shields.io/badge/SCRUM-Agile-black?style=flat-square" />
 <img src="https://img.shields.io/badge/ITIL-Service-black?style=flat-square" />
 <img src="https://img.shields.io/badge/NIST-Security-black?style=flat-square" />
 
