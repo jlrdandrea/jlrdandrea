@@ -13,15 +13,14 @@
 ![UML](https://img.shields.io/badge/-uml-black?style=flat-square-red?&logo=UML)
 
 ##
-Senior Project Manager
-
-![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
-
+<center>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoluizdandrea)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/JoaoDAndrea80184)
 [![Signal](https://img.shields.io/badge/Signal-Chat-3A76F0?logo=signal&logoColor=white)](https://signal.me/#p/+447576534694)
 [![Email](https://img.shields.io/badge/Email-Contact-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:joao.dandrea@tuta.com)
+</center>
 
+![](https://github.com/jlrdandrea/jlrdandrea/blob/main/Simple%20Professional%20LinkedIn%20Banner.png)
 
 ##
 Certifications
