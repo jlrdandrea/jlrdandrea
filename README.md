@@ -83,10 +83,17 @@ Management Books
     <img src="13 - Sales and Marketing.png"
          alt="Cyber Security Book"
          width="200">
+   </a>
+   <a href="11 - Building a Consultancy.png">
+    <img src="11 - Building a Consultancy.png"
+         alt="Cyber Security Book"
+         width="200">
   </a>
 </p>
+     
 ###
 Technical Books
+
 <p align="center">     
   </a>
    <a href="07 - Quantitative Trading with R.png">
