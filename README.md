@@ -116,6 +116,16 @@ Books
          alt="Cyber Security Book"
          width="200">
   </a>
+  <a href="06 - Data Governance.png">
+    <img src="14 - Statistics in Practice with R.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  <a href="06 - Data Governance.png">
+    <img src="15 - Forecasting in Practice with R.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
 </p>
 
 ##
