@@ -74,6 +74,48 @@ Books
          alt="Cyber Security Book"
          width="200">
   </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="07 - Quantitative Trading with R.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="05 - Understanding Human Behaviour.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="08 - Data Science with R and Tidymodels.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="09 - Learning R the Tidy Way.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="010 - Project Management in Practice.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="11 - Building a Consultancy.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="12 - Software Development in Practice.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
 </p>
 
 ##
