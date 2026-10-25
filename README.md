@@ -54,14 +54,19 @@ Books
     <img src="10 - Project Management in Practice.png"
          alt="Cyber Security Book"
          width="200">
-  </a>
-   <a href="06 - Data Governance.png">
-    <img src="06 - Data Governance.png"
+   </a>
+   <a href="12 - Software Development in Practice.png">
+    <img src="12 - Software Development in Practice.png"
          alt="Cyber Security Book"
          width="200">
   <a href="01 - Mastering Scrum.png">
     <img src="01 - Mastering Scrum.png"
          alt="Project Management Book"
+         width="200">
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="06 - Data Governance.png"
+         alt="Cyber Security Book"
          width="200">
   </a>
    <a href="04 - Cybersecurity.png">
@@ -74,15 +79,14 @@ Books
          alt="Cyber Security Book"
          width="200">
   </a>
-  </a>
-   <a href="07 - Quantitative Trading with R.png">
-    <img src="07 - Quantitative Trading with R.png"
+   <a href="13 - Sales and Marketing.png">
+    <img src="13 - Sales and Marketing.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="13 - Sales and Marketing.png">
-    <img src="13 - Sales and Marketing.png"
+   <a href="07 - Quantitative Trading with R.png">
+    <img src="07 - Quantitative Trading with R.png"
          alt="Cyber Security Book"
          width="200">
   </a>
@@ -99,29 +103,24 @@ Books
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="11 - Building a Consultancy.png">
     <img src="11 - Building a Consultancy.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
-    <img src="12 - Software Development in Practice.png"
-         alt="Cyber Security Book"
-         width="200">
-  </a>
-  <a href="06 - Data Governance.png">
+  <a href="14 - Statistics in Practice with R.png">
     <img src="14 - Statistics in Practice with R.png"
          alt="Cyber Security Book"
          width="200">
   </a>
-  <a href="06 - Data Governance.png">
+  <a href="15 - Forecasting in Practice with R.png">
     <img src="15 - Forecasting in Practice with R.png"
          alt="Cyber Security Book"
          width="200">
   </a>
    </a>
-  <a href="06 - Data Governance.png">
+  <a href="003 - The Fantastic Factory of Charts.png">
     <img src="03 - The Fantastic Factory of Charts.png"
          alt="Cyber Security Book"
          width="200">
