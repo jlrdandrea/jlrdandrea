@@ -47,17 +47,17 @@ Books
   <a href="books/project-management/">
     <img src="01 - Mastering Scrum.png"
          alt="Project Management Book"
-         width="160">
+         width="200">
   </a>
   <a href="books/ai-governance/">
-    <img src="2 - IT Governance.png"
+    <img src="02 - IT Governance.png"
          alt="AI Governance Book"
-         width="160">
+         width="200">
   </a>
-  <a href="b06 - Data Governance.png">
+  <a href="06 - Data Governance.png">
     <img src="images/cyber-security-cover.png"
          alt="Cyber Security Book"
-         width="160">
+         width="200">
   </a>
 </p>
 
