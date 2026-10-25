@@ -44,18 +44,14 @@ Certifications
 Books
 
 <p align="center">
-  <a href="books/project-management/">
-    <img src="01 - Mastering Scrum.png"
-         alt="Project Management Book"
-         width="200">
   </a>
-  <a href="books/ai-governance/">
+  <a href="02 - IT Governance.png">
     <img src="02 - IT Governance.png"
          alt="AI Governance Book"
          width="200">
   </a>
-   <a href="06 - Data Governance.png">
-    <img src="04 - Cybersecurity.png"
+   <a href="00 - Project Management in Practice.png">
+    <img src="10 - Project Management in Practice.png"
          alt="Cyber Security Book"
          width="200">
   </a>
@@ -63,39 +59,42 @@ Books
     <img src="06 - Data Governance.png"
          alt="Cyber Security Book"
          width="200">
+  <a href="01 - Mastering Scrum.png">
+    <img src="01 - Mastering Scrum.png"
+         alt="Project Management Book"
+         width="200">
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="04 - Cybersecurity.png">
+    <img src="04 - Cybersecurity.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+   <a href="05 - Understanding Human Behaviour.png">
     <img src="05 - Understanding Human Behaviour.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="07 - Quantitative Trading with R.png">
     <img src="07 - Quantitative Trading with R.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="13 - Sales and Marketing.png">
     <img src="13 - Sales and Marketing.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="08 - Data Science with R and Tidymodels.png">
     <img src="08 - Data Science with R and Tidymodels.png"
          alt="Cyber Security Book"
          width="200">
   </a>
   </a>
-   <a href="06 - Data Governance.png">
+   <a href="09 - Learning R the Tidy Way.png">
     <img src="09 - Learning R the Tidy Way.png"
-         alt="Cyber Security Book"
-         width="200">
-  </a>
-  </a>
-   <a href="06 - Data Governance.png">
-    <img src="10 - Project Management in Practice.png"
          alt="Cyber Security Book"
          width="200">
   </a>
