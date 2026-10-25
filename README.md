@@ -41,6 +41,27 @@ Certifications
 * [ITIL the framework for the management of IT-enabled services](https://www.axelos.com/certifications/itil-service-management)
 
 ##
+Books
+
+<p align="center">
+  <a href="books/project-management/">
+    <img src="01 - Mastering Scrum.png"
+         alt="Project Management Book"
+         width="160">
+  </a>
+  <a href="books/ai-governance/">
+    <img src="2 - IT Governance.png"
+         alt="AI Governance Book"
+         width="160">
+  </a>
+  <a href="b06 - Data Governance.png">
+    <img src="images/cyber-security-cover.png"
+         alt="Cyber Security Book"
+         width="160">
+  </a>
+</p>
+
+##
 Training
 * [Professional Training Summary](https://jdan.shinyapps.io/Training/)
 
