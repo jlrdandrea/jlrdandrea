@@ -82,7 +82,7 @@ Books
   </a>
   </a>
    <a href="06 - Data Governance.png">
-    <img src="05 - Understanding Human Behaviour.png"
+    <img src="13 - Sales and Marketing.png"
          alt="Cyber Security Book"
          width="200">
   </a>
