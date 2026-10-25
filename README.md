@@ -59,6 +59,21 @@ Books
          alt="Cyber Security Book"
          width="200">
   </a>
+   <a href="06 - Data Governance.png">
+    <img src="06 - Data Governance.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="06 - Data Governance.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
+   <a href="06 - Data Governance.png">
+    <img src="06 - Data Governance.png"
+         alt="Cyber Security Book"
+         width="200">
+  </a>
 </p>
 
 ##
