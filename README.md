@@ -60,7 +60,7 @@ Books
          width="200">
   </a>
    <a href="06 - Data Governance.png">
-    <img src="06 - Data Governance.png"
+    <img src="04 - Cybersecurity.png"
          alt="Cyber Security Book"
          width="200">
   </a>
@@ -70,7 +70,7 @@ Books
          width="200">
   </a>
    <a href="06 - Data Governance.png">
-    <img src="06 - Data Governance.png"
+    <img src="05 - Understanding Human Behaviour.png"
          alt="Cyber Security Book"
          width="200">
   </a>
