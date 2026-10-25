@@ -41,7 +41,7 @@ Certifications
 * [ITIL the framework for the management of IT-enabled services](https://www.axelos.com/certifications/itil-service-management)
 
 ##
-Books
+Management Books
 
 <p align="center">
   </a>
@@ -84,6 +84,10 @@ Books
          alt="Cyber Security Book"
          width="200">
   </a>
+</p>
+###
+Technical Books
+<p align="center">     
   </a>
    <a href="07 - Quantitative Trading with R.png">
     <img src="07 - Quantitative Trading with R.png"
