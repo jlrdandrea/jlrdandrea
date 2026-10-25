@@ -100,7 +100,7 @@ Books
   </a>
   </a>
    <a href="06 - Data Governance.png">
-    <img src="010 - Project Management in Practice.png"
+    <img src="10 - Project Management in Practice.png"
          alt="Cyber Security Book"
          width="200">
   </a>
