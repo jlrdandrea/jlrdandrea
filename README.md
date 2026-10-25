@@ -50,7 +50,7 @@ Management Books
          alt="AI Governance Book"
          width="200">
   </a>
-   <a href="00 - Project Management in Practice.png">
+   <a href="10 - Project Management in Practice.png">
     <img src="10 - Project Management in Practice.png"
          alt="Cyber Security Book"
          width="200">
