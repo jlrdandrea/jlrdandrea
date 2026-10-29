@@ -88,6 +88,11 @@ Management Books
     <img src="11 - Building a Consultancy.png"
          alt="Cyber Security Book"
          width="200">
+   </a>
+   <a href="CapacityPlanTeamMobiliztion.png">
+    <img src="CapacityPlanTeamMobiliztion.png"
+         alt="Cyber Security Book"
+         width="200">
   </a>
 </p>
      
