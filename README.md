@@ -126,12 +126,7 @@ Technical Books
          alt="Cyber Security Book"
          width="200">
   </a>
-  </a>
-   <a href="11 - Building a Consultancy.png">
-    <img src="11 - Building a Consultancy.png"
-         alt="Cyber Security Book"
-         width="200">
-  </a>
+ 
   </a>
   <a href="14 - Statistics in Practice with R.png">
     <img src="14 - Statistics in Practice with R.png"
