@@ -97,7 +97,10 @@ Management Books
     <img src="SpecialistSystems.png"
          alt="Specialist Systems Book"
          width="200">
-  </a>
+   <a href="SoftwareExtimate.png">
+    <img src="SoftwareExtimate.png"
+         alt="Software Extimate Book"
+         width="200">
   </a>
 </p>
      
