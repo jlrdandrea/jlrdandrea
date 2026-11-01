@@ -71,28 +71,33 @@ Management Books
   </a>
    <a href="04 - Cybersecurity.png">
     <img src="04 - Cybersecurity.png"
-         alt="Cyber Security Book"
+         alt="Data Governance Book"
          width="200">
   </a>
    <a href="05 - Understanding Human Behaviour.png">
     <img src="05 - Understanding Human Behaviour.png"
-         alt="Cyber Security Book"
+         alt="Understanding Human Behaviour Book"
          width="200">
   </a>
    <a href="13 - Sales and Marketing.png">
     <img src="13 - Sales and Marketing.png"
-         alt="Cyber Security Book"
+         alt="Sales and Marketing Book"
          width="200">
    </a>
    <a href="11 - Building a Consultancy.png">
     <img src="11 - Building a Consultancy.png"
-         alt="Cyber Security Book"
+         alt="Building a Consultanc Book"
          width="200">
    </a>
    <a href="CapacityPlanTeamMobiliztion.png">
     <img src="CapacityPlanTeamMobiliztion.png"
-         alt="Cyber Security Book"
+         alt="Capacity Plan Team Mobiliztion Book"
          width="200">
+  <a href="SpecialistSystems.png">
+    <img src="SpecialistSystems.png"
+         alt="Specialist Systems Book"
+         width="200">
+  </a>
   </a>
 </p>
      
