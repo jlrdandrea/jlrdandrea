@@ -150,6 +150,10 @@ Technical Books
 Training
 * [Professional Training Summary](https://jdan.shinyapps.io/Training/)
 
+
+POC - Proof of Concept
+* [Patern Recognition ATLAS](https://01a1a778-4000-b89f-2e42-10787b9d8042.share.connect.posit.cloud/)
+
 ## 
 Mockups
 * [IT Governance](https://jdan.shinyapps.io/ITGovernance/)
