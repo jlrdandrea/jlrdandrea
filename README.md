@@ -101,6 +101,10 @@ Management Books
     <img src="SoftwareExtimate.png"
          alt="Software Extimate Book"
          width="200">
+   <a href="EnglishArticulation.png">
+    <img src="EnglishArticulation.png"
+         alt="EnglishArticulation.png"
+         width="200">
   </a>
 </p>
      
